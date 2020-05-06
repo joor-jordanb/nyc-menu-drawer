@@ -1,0 +1,67 @@
+{
+  "boroughs": [
+    "Manhattan"
+  ],
+  "neighborhoods": [
+    "East Village"
+  ],
+  "restaurants": [
+    {
+      "id": "F3982A55-0D40-4E70-B4DD-9A6A7A5CACA2",
+      "title": "Avenue A Deli & Food Inc.",
+      "symbol": "",
+      "keywords": "deprecate",
+      "name": "Avenue A Deli & Food Inc.",
+      "shortDescription": "Organic, Natural, and Functional Food.",
+      "longDescription": "",
+      "delivers": true,
+      "deliveryInfo": "Free Delivery for orders above $20",
+      "phone": "646-609-6888",
+      "streetAddress": "24 Avenue A",
+      "neighborhood": "East Village",
+      "borough": "Manhattan",
+      "images": [
+        "https://user-images.githubusercontent.com/41012778/81021854-2c422080-8e3a-11ea-8d99-53d7e3428855.png",
+        "https://user-images.githubusercontent.com/41012778/81022060-a5da0e80-8e3a-11ea-8f29-e0d005f49692.png"
+      ]
+    },
+    {
+      "id": "F3982A55-0D40-4E70-B4DD-9A6A7A5CACA2",
+      "title": "Avenue A Deli & Food Inc.",
+      "symbol": "",
+      "keywords": "deprecate",
+      "name": "Avenue A Deli & Food Inc.",
+      "shortDescription": "Organic, Natural, and Functional Food.",
+      "longDescription": "",
+      "delivers": true,
+      "deliveryInfo": "Free Delivery for orders above $20",
+      "phone": "646-609-6888",
+      "streetAddress": "24 Avenue A",
+      "neighborhood": "East Village",
+      "borough": "Manhattan",
+      "images": [
+        "https://user-images.githubusercontent.com/41012778/81021854-2c422080-8e3a-11ea-8d99-53d7e3428855.png",
+        "https://user-images.githubusercontent.com/41012778/81022060-a5da0e80-8e3a-11ea-8f29-e0d005f49692.png"
+      ]
+    },
+    {
+      "id": "F3982A55-0D40-4E70-B4DD-9A6A7A5CACA2",
+      "title": "Avenue A Deli & Food Inc.",
+      "symbol": "",
+      "keywords": "deprecate",
+      "name": "Avenue A Deli & Food Inc.",
+      "shortDescription": "Organic, Natural, and Functional Food.",
+      "longDescription": "",
+      "delivers": true,
+      "deliveryInfo": "Free Delivery for orders above $20",
+      "phone": "646-609-6888",
+      "streetAddress": "24 Avenue A",
+      "neighborhood": "East Village",
+      "borough": "Manhattan",
+      "images": [
+        "https://user-images.githubusercontent.com/41012778/81021854-2c422080-8e3a-11ea-8d99-53d7e3428855.png",
+        "https://user-images.githubusercontent.com/41012778/81022060-a5da0e80-8e3a-11ea-8f29-e0d005f49692.png"
+      ]
+    }
+  ]
+}
